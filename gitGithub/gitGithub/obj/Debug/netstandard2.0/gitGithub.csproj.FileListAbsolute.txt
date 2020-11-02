@@ -1,0 +1,15 @@
+C:\Users\1292020ali\source\repos\gitGithub\gitGithub\gitGithub\bin\Debug\netstandard2.0\gitGithub.deps.json
+C:\Users\1292020ali\source\repos\gitGithub\gitGithub\gitGithub\bin\Debug\netstandard2.0\gitGithub.dll
+C:\Users\1292020ali\source\repos\gitGithub\gitGithub\gitGithub\obj\Debug\netstandard2.0\gitGithub.csprojAssemblyReference.cache
+C:\Users\1292020ali\source\repos\gitGithub\gitGithub\gitGithub\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\1292020ali\source\repos\gitGithub\gitGithub\gitGithub\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\1292020ali\source\repos\gitGithub\gitGithub\gitGithub\obj\Debug\netstandard2.0\gitGithub.AssemblyInfoInputs.cache
+C:\Users\1292020ali\source\repos\gitGithub\gitGithub\gitGithub\obj\Debug\netstandard2.0\gitGithub.AssemblyInfo.cs
+C:\Users\1292020ali\source\repos\gitGithub\gitGithub\gitGithub\bin\Debug\netstandard2.0\ref\gitGithub.dll
+C:\Users\1292020ali\source\repos\gitGithub\gitGithub\gitGithub\bin\Debug\netstandard2.0\gitGithub.pdb
+C:\Users\1292020ali\source\repos\gitGithub\gitGithub\gitGithub\obj\Debug\netstandard2.0\View\NaheView.xaml.g.cs
+C:\Users\1292020ali\source\repos\gitGithub\gitGithub\gitGithub\obj\Debug\netstandard2.0\gitGithub.csproj.CoreCompileInputs.cache
+C:\Users\1292020ali\source\repos\gitGithub\gitGithub\gitGithub\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\1292020ali\source\repos\gitGithub\gitGithub\gitGithub\obj\Debug\netstandard2.0\gitGithub.dll
+C:\Users\1292020ali\source\repos\gitGithub\gitGithub\gitGithub\obj\Debug\netstandard2.0\ref\gitGithub.dll
+C:\Users\1292020ali\source\repos\gitGithub\gitGithub\gitGithub\obj\Debug\netstandard2.0\gitGithub.pdb
